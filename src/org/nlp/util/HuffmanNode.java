@@ -2,6 +2,7 @@ package org.nlp.util;
 
 /**
  * Created by fangy on 13-12-17.
+ * 
  * 哈夫曼树结点接口
  */
 public interface HuffmanNode extends Comparable<HuffmanNode> {
